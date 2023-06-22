@@ -4,7 +4,5 @@ This project utilizes data from Zuber, a new ride share company launching in Chi
 
 1. Import HTML parsed and SQL queried csv files into python
 2. Exporatory data analysis and data visualizations
-3. Hypothesis tests
+3. Two-Sample Hypothesis Tests
 4. Conclusion and business application
-
-Web Mining, SQL, and Descriptive Statistics
