@@ -7,4 +7,4 @@ This project utilizes data from Zuber, a new ride share company launching in Chi
 3. Two-Sample Hypothesis Tests
 4. Conclusion and business application
 
-To view the project, open Zuber_Analysis.ipynb
+To view the analysis, open Zuber_Analysis.ipynb
