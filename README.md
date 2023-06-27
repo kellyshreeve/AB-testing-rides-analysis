@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This is a market analysis for Zuber, a new ride share company launching in Chicago. The company is new to the market and needs to understand customer behvior in the area. The analysis describes the local market using exploratory data analysis and visualizations and tests whether there is a significant difference in trip length during bad weather.
+This project is based on data from Zuber, a new ride share company launching in Chicago. The company is new to the market and needs to understand customer behvior in the area. The analysis describes the local market using exploratory data analysis and visualizations and tests whether there is a significant difference in trip length during bad weather.
 
 # Installation and Setup
 
