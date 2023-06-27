@@ -8,12 +8,12 @@ This project is based on data from Zuber, a new ride share company launching in 
 
 ### Codes and Resources Used
 
-  - <b>Editor Used<\b>:
-  - <b>Python Version<\b>:
+  - <b>Editor Used</b>:
+  - <b>Python Version</b>:
 
 ### Python Packages Used
 
-  - <b>General Purpose<\b>:
+  - <b>General Purpose</b>:
 
 To view the analysis, open Zuber_Analysis.ipynb
 
