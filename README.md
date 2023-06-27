@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This project is based on data from Zuber, a new ride share company launching in Chicago. The company is new to the market and needs to understand customer behvior in the area. The analysis describes the local market using exploratory data analysis and visualizations and tests whether there is a significant difference in trip length during bad weather.
+This is a data science project for Zuber, a new ride share company launching in Chicago. The company is new to the market and needs to understand customer behvior in the area. The analysis describes the local market using exploratory data analysis and visualizations and tests whether there is a significant difference in trip length during bad weather.
 
 # Installation and Setup
 
@@ -39,10 +39,10 @@ Data were checked for missing values and duplicates. None were found and no impu
  
 # Code Structure
 
-1. Import HTML parsed and SQL queried csv files into python
-2. Exporatory data analysis and data visualizations
-3. Two-Sample Hypothesis Tests
-4. Conclusion and business application
+- Import HTML parsed and SQL queried csv files into python
+- Exporatory data analysis and data visualizations
+- Two-Sample Hypothesis Tests
+- Conclusion and business application
 
 # Results and Evaluation
 
