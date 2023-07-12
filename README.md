@@ -43,11 +43,12 @@ The data were retrieved through HTML parsing a web page and SQL queries of a lar
 Data were checked for missing values and duplicates. None were found and no imputation was necessary.
  
 # Code Structure
-
-- Import HTML parsed and SQL queried csv files into python
-- Exporatory data analysis and data visualizations
-- Two-Sample Hypothesis Tests
-- Conclusion and business application
+```
+|--- data
+|     |--- sql_result_01.csv
+|     |--- sql_result_04.csv
+|     |--- sql_result_07.csv
+```
 
 # Results and Evaluation
 
