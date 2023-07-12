@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This project is based on data from Zuber, a new ride share company launching in Chicago. The company is new to the market and needs to understand customer behvior in the area. The analysis describes the local market using exploratory data analysis and visualizations and tests whether there is a significant difference in trip length during bad weather.
+This project utilizes data from Zuber, a new ride share company launching in Chicago. The company is new to the market and needs to understand customer behvior in the area. The analysis describes the local market using exploratory data analysis and visualizations and tests whether there is a significant difference in trip length during bad weather.
 
 # Installation and Setup
 
@@ -10,15 +10,16 @@ To view the analysis, open Zuber_Analysis.ipynb
 
 ## Codes and Resources Used
 
-  - <b>Editor Used</b>:
-  - <b>Python Version</b>:
+  - <b>Editor Used</b>: Visual Studio Code
+  - <b>Python Version</b>: 3.10.9
 
 ## Python Packages Used
 
-  - <b>General Purpose</b>:
-  - <b>Data Manipulation</b>:
-  - <b>Data Visualization</b>:
-  - <b>Machine Learning</b>:
+  - <b>General Purpose</b>: NA
+  - <b>Data Manipulation</b>: ```pandas```
+  - <b>Data Visualization</b>: plotly.express
+  - <b>Statistical Analysis</b>: scipy.stats   researchpy
+  - <b>Machine Learning</b>: NA
 
 # Data
 
