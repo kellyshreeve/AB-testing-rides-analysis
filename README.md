@@ -1,7 +1,8 @@
 # Zuber Rides Analysis
 
 <p align="center">
-  <img src="https://github.com/kellyshreeve/Zuber_Rides_Analysis/blob/main/images/carimage.png">
+  <img src="https://github.com/kellyshreeve/Zuber_Rides_Analysis/blob/main/images/carimage.png" 
+  alt="Purple car cartoon">
 </p>
 
 # Project Overview
