@@ -32,10 +32,16 @@ This repository hosts a data science project for Zuber, a new ride share company
 
 ## Source Data
 
-There are three source datasets: 
-  1. Local ride share companies and their total number of trips (n=64)
-  2. Local neighborhoods and their average number of drop offs (n=94)
-  3. Ride share trips with start time, weather, and duration (n=1068)
+sql_result_01.csv
+  * *company_name*: taxi company name
+  * *trips_amount*: the number of rides for each taxi company on November 15-16, 2017
+sql_result_04.csv
+  * *dropoff_location_name*: Chicago neighborhoods where rides ended
+  * *average_trips*: the average number of rides that ended in each neighborhood in November 2017
+sql_result_07.csv
+  * *start_ts*: picup date and time
+  * *weather_conditions*: weather conditions at the moment the ride started
+  * *duration_seconds*: ride duration in seconds
 
 ## Data Acquisition
 
