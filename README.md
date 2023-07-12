@@ -1,6 +1,8 @@
 # Zuber Rides Analysis
 
-![Image](images/carimage.png)
+<p align="center">
+  <img src="https://github.com/kellyshreeve/Zuber_Rides_Analysis/blob/main/images/carimage.png">
+</p>
 
 # Project Overview
 
