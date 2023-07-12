@@ -7,7 +7,7 @@
 
 # Project Overview
 
-This repository hosts a data science project for Zuber, a new ride share company launching in Chicago. It is an in-depth analysis of customer behvior in the area and includes descriptive statistics, data visualizations, and hypothesis tests on data from competitors in the area.
+This repository hosts a data science project for Zuber, a new ride share company launching in Chicago. It is an in-depth analysis of customer behavior in the area and includes descriptive statistics, data visualizations, and hypothesis tests on data from competitors in the area.
 
 # Installation and Setup
 
@@ -39,7 +39,7 @@ sql_result_01.csv
 sql_result_04.csv
   * *dropoff_location_name*: Chicago neighborhoods where rides ended
   * *average_trips*: the average number of rides that ended in each neighborhood in November 2017  
-  
+
 sql_result_07.csv
   * *start_ts*: picup date and time
   * *weather_conditions*: weather conditions at the moment the ride started
