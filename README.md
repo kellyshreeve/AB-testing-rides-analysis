@@ -36,7 +36,7 @@ The analysis is based on three datasets:
 
 ## Data Acquisition
 
-The data were retrieved through HTML parsing a web page and SQL queries of a large database. They were then downloaded into csvs, and then uploaded into Python for analysis. 
+The data were retrieved through HTML parsing a web page and SQL queries of a large database provided by TripleTen. Data were downloaded into csvs, and then uploaded into Python for analysis. 
 
 ## Data Preprocessing
 
