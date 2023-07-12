@@ -18,7 +18,7 @@ To view the analysis, open Zuber_Analysis.ipynb
   - <b>General Purpose</b>: NA
   - <b>Data Manipulation</b>: ```pandas```
   - <b>Data Visualization</b>: ```plotly.express```
-  - <b>Statistical Analysis</b>: ```scipy.stats, researchpy```
+  - <b>Statistical Analysis</b>: ```SciPy, researchpy```
   - <b>Machine Learning</b>: NA
 
 # Data
