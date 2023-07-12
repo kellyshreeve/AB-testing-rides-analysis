@@ -44,16 +44,17 @@ Data were checked for missing values and duplicates. None were found and no impu
  
 # Code Structure
 ```
+  ├── LICENSE
   ├── README.md          
   ├── data
   │   ├── sql_result_01.csv      
   │   ├── sql_result_04.csv       
-  │   ├── sql_result_07.csv     
+  │   └── sql_result_07.csv     
   │
   ├── notebooks  
-  │   ├── Zuber_Analysis.ipynb   
+  │   └── Zuber_Analysis.ipynb   
   │
-  ├── requirements.txt  
+  └── requirements.txt  
 ```
 
 # Results and Evaluation
