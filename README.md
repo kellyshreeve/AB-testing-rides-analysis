@@ -1,5 +1,7 @@
 # Zuber Rides Analysis
 
+![Image](images/carimage.png)
+
 # Project Overview
 
 Zuber is a new ride share company launching in Chicago and would like to better understand customer behvior in the area. The analysis depicts the local market using data visualizations and tests whether there is a statistically significant difference in customer trip length during bad weather.
