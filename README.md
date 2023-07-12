@@ -7,11 +7,9 @@
 
 # Project Overview
 
-Zuber is a new ride share company launching in Chicago and would like to better understand customer behvior in the area. The analysis depicts the local market using data visualizations and tests whether there is a statistically significant difference in customer trip length during bad weather.
+Zuber is a new ride share company launching in Chicago and would like to better understand customer behvior in the area. This analysis depicts the local market using data visualizations and tests whether there is a statistically significant difference in customer trip length during bad weather.
 
 # Installation and Setup
-
-To view the analysis, open Zuber_Analysis.ipynb
 
 ## Codes and Resources Used
 
@@ -34,7 +32,7 @@ To view the analysis, open Zuber_Analysis.ipynb
 
 ## Source Data
 
-The analysis is based on three datasets: 
+There are three source datasets: 
   1. Local ride share companies and their total number of trips (n=64)
   2. Local neighborhoods and their average number of drop offs (n=94)
   3. Ride share trips with start time, weather, and duration (n=1068)
