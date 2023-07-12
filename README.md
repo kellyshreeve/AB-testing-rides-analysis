@@ -52,13 +52,13 @@ Data were checked for missing values and duplicates. None were found and no impu
   ├── data
   │   ├── sql_result_01.csv      
   │   ├── sql_result_04.csv       
-  │   └── sql_result_07.csv     
+  │   └── sql_result_07.csv 
+  │
+  ├── images
+  │   └── car-picture.png    
   │
   ├── notebooks  
   │   └── Zuber_Analysis.ipynb 
-  │
-  ├── images
-  │   └── car-picture.png
   │
   └── requirements.txt  
 ```
