@@ -52,7 +52,10 @@ Data were checked for missing values and duplicates. None were found and no impu
   │   └── sql_result_07.csv     
   │
   ├── notebooks  
-  │   └── Zuber_Analysis.ipynb   
+  │   └── Zuber_Analysis.ipynb 
+  │
+  ├── images
+  │   └── car-picture.png
   │
   └── requirements.txt  
 ```
