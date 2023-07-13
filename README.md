@@ -69,6 +69,11 @@ Data were checked for missing values and duplicates. None were found and no impu
 
 # Results and Evaluation
 
+<p align="center">
+  <img src="https://github.com/kellyshreeve/Zuber_Rides_Analysis/blob/main/images/drop-offs.png" 
+  alt="Bar graph of average drop offs by neighborhood">
+</p>
+
 # Future Work
 
 # Acknowledgments/References
