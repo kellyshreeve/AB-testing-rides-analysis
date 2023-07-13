@@ -57,10 +57,6 @@ Data were checked for missing values and duplicates. None were found and no impu
 ```
   ├── LICENSE
   ├── README.md          
-  ├── data
-  │   ├── sql_result_01.csv      
-  │   ├── sql_result_04.csv       
-  │   └── sql_result_07.csv 
   │
   ├── images
   │   └── car-picture.png    
