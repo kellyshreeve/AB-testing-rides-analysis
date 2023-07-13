@@ -47,7 +47,7 @@ sql_result_07.csv
 
 ## Data Acquisition
 
-The data were retrieved through HTML parsing a web page and SQL queries of a large database provided by TripleTen. Data were downloaded into csvs, and then uploaded into Python for analysis. 
+The data were retrieved through HTML parsing and SQL queries of a large database provided by TripleTen. 
 
 ## Data Preprocessing
 
