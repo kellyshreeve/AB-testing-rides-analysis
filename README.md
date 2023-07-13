@@ -70,8 +70,18 @@ Data were checked for missing values and duplicates. None were found and no impu
 # Results and Evaluation
 
 <p align="center">
+  <img src="https://github.com/kellyshreeve/Zuber_Rides_Analysis/blob/main/images/trips-company.png" 
+  alt="Bar graph of total trips by company">
+</p>
+
+<p align="center">
   <img src="https://github.com/kellyshreeve/Zuber_Rides_Analysis/blob/main/images/drop-offs.png" 
   alt="Bar graph of average drop offs by neighborhood">
+</p>
+
+<p align="center">
+  <img src="https://github.com/kellyshreeve/Zuber_Rides_Analysis/blob/main/images/hypothesis-test.png" 
+  alt="Statistical output of two-indpendent samples t-test comparing average trip length in good vs bad weather">
 </p>
 
 # Future Work
