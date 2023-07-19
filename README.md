@@ -7,7 +7,7 @@
 
 # Project Overview
 
-This repository hosts a data science project for Zuber, a new ride share company launching in Chicago. It is an in-depth analysis of customer behavior in the area and includes descriptive statistics, data visualizations, and hypothesis tests on data from competitors in the area.
+This repository hosts a data science project for Zuber, a new ride share company launching in Chicago. It is an in-depth analysis of customer behavior in the area and includes descriptive statistics, data visualizations, and hypothesis tests on data from competitors in the area. The purpose is to find which companies are top competitors, which neighborhoods are most popular for drop offs, and whether there is a difference in trip length on rainy days and sunny days.
 
 # Installation and Setup
 
